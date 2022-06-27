@@ -4,4 +4,4 @@ from mod.common.mod import Mod
 
 @Mod.Binding()
 class MChinaCreatorTemplateMod(object):
-  pass
+    pass
